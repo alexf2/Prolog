@@ -1,0 +1,2 @@
+GLOBAL PREDICATES
+  query

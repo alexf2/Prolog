@@ -1,0 +1,4 @@
+hard_ware(main_board("UMC","82C208L"))
+hard_ware(main_board("Acer","M1217"))
+hard_ware(main_board("HP Vectra","386SX/33N"))
+hard_ware(main_board("Acer","M1217"))
